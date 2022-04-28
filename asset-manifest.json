@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fb66a4f4.css",
+    "main.js": "/static/js/main.16caf620.js",
+    "static/media/queen_magda.jpeg": "/static/media/queen_magda.952aa0d2da3428c2f2b3.jpeg",
+    "static/media/judgy_magda.png": "/static/media/judgy_magda.3aee45a08c4fa45deb09.png",
+    "static/media/laughing_magda.png": "/static/media/laughing_magda.ac5204458c6d7e2a2f45.png",
+    "static/media/cheeky_magda.png": "/static/media/cheeky_magda.5c522668f54d9daecab1.png",
+    "index.html": "/index.html",
+    "main.fb66a4f4.css.map": "/static/css/main.fb66a4f4.css.map",
+    "main.16caf620.js.map": "/static/js/main.16caf620.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fb66a4f4.css",
+    "static/js/main.16caf620.js"
+  ]
+}
